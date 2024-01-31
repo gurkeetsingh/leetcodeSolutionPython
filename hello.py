@@ -1,1 +1,2 @@
-print('hello its gurkeet singh')
+num=[1,2,3,0,0,0]
+print(num[])
